@@ -1,2 +1,0 @@
-# blog
-Dazhu's Blog
